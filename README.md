@@ -18,6 +18,13 @@ Este é o projeto inicial e, ao longo dos versionamentos, serão adicionadas as 
 - **Melhorias na Interface do Usuário**:
   - Validação de formulário com JavaScript.
   - Integração com APIs para autenticação.
+ 
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
+
+- Email: hugoo.vitoor@hotmail.com
+- Linkedln: www.linkedin.com/in/hugoovitoor/
   - Animações e transições CSS.
   - Sistema de recuperação de senha.
 
